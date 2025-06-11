@@ -2,7 +2,7 @@
 
 ---
 
-I’m a **final-year student of Computer Science and Engineering at Jahangirnagar University (JU)** with a CGPA of **3.78 out of 4.00**. I aspire to become a **dedicated faculty member** in the future, with strong interests in **Cybersecurity**, **Software Engineering**, and **Applied Machine Learning**. I am deeply committed to academic excellence, technical learning, and contributing impactful research and innovations in the field of computing.
+Welcome to my GitHub profile! I’m a **final-year student of Computer Science and Engineering at Jahangirnagar University (JU)** with a CGPA of **3.78 out of 4.00**. I aspire to become a **dedicated faculty member** in the future, with strong interests in **Cybersecurity**, **Software Engineering**, and **Applied Machine Learning**. I am deeply committed to academic excellence, technical learning, and contributing impactful research and innovations in the field of computing.
 
 ---
 
