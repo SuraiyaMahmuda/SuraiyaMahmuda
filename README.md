@@ -20,12 +20,12 @@ I’m a **final-year student of Computer Science and Engineering at Jahangirnaga
 
 | Project Name | Date | Description |
 |--------------|------|-------------|
-| 🏫 **[Ju-Exam-Office-Management-System](https://github.com/SuraiyaMahmuda/Ju-Exam-Office-Management-System)** | Nov 2024 | A Django-based system for managing university exam office workflows. |
 | 🐦 **[Bird Classification](https://github.com/SuraiyaMahmuda/Bird-Classification)** | Mar 2025 | ML-based classifier that identifies bird species from images. |
 | 🐶 **[Animal Face Classification](https://github.com/SuraiyaMahmuda/Animal-Face-Classification)** | Mar 2025 | Image classification model for recognizing animal faces. |
-| 💍 **[Matrimony-Biye-Shaadi](https://github.com/SuraiyaMahmuda/Matrimony-Biye-Shaadi)** | Jan 2024 | A full-stack matchmaking platform for matrimonial services. |
-| 📚 **[TutorFinderApp](https://github.com/SuraiyaMahmuda/TutorFinderApp)** | Nov 2024 | Android app that connects parents with tutors for home teaching. |
+| 📚 **[TutorFinderApp](https://github.com/SuraiyaMahmuda/TutorFinderApp)** | Dec 2024 | Android app that connects parents with tutors for home teaching. |
+| 🏫 **[Ju-Exam-Office-Management-System](https://github.com/SuraiyaMahmuda/Ju-Exam-Office-Management-System)** | Nov 2024 | A Django-based system for managing university exam office workflows. |
 | 🤖 **[An-Obstacle-Avoiding-Robot](https://github.com/SuraiyaMahmuda/An-Obstacle-Avoiding-Robot)** | Mar 2024 | Arduino-powered robot with obstacle detection using ultrasonic sensors. |
+| 💍 **[Matrimony-Biye-Shaadi](https://github.com/SuraiyaMahmuda/Matrimony-Biye-Shaadi)** | Jan 2024 | A full-stack matchmaking platform for matrimonial services. |
 
 ---
 
