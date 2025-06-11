@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I’m a **final-year student of Computer Science a
 - 🔐 Career goal: Become a faculty member and researcher in Cybersecurity.
 - 💻 Proficient in **Python**, **Java**, **C++**, **Django**, and **Machine Learning Frameworks**.
 - 🌱 Currently exploring **BERT**, **NLP**, **LLM**, and **Secure Web Systems**.
-- Research Interests: **Cyber Security**.
+- 👩‍🏫 Research Interests: **Cyber Security**.
 
 ---
 
