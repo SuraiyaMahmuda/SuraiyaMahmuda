@@ -21,11 +21,11 @@ Welcome to my GitHub profile! I’m a **final-year student of Computer Science a
 | Project Name | Date | Description |
 |--------------|------|-------------|
 | 🐦 **[Bird Classification](https://github.com/SuraiyaMahmuda/Bird-Classification)** | Mar 2025 | ML-based classifier that identifies bird species from images. |
-| 🐶 **[Animal Face Classification](https://github.com/SuraiyaMahmuda/Animal-Face-Classification)** | Mar 2025 | This project uses a CNN model to classify animal faces like cats, dogs, and pandas. It applies image preprocessing and augmentation to improve accuracy, showcasing deep learning for animal recognition tasks. |
-| 📚 **[TutorFinderApp](https://github.com/SuraiyaMahmuda/TutorFinderApp)** | Dec 2024 | Android app that connects parents with tutors for home teaching. |
-| 🏫 **[Ju-Exam-Office-Management-System](https://github.com/SuraiyaMahmuda/Ju-Exam-Office-Management-System)** | Nov 2024 | A Django-based system for managing university exam office workflows. |
-| 🤖 **[An-Obstacle-Avoiding-Robot](https://github.com/SuraiyaMahmuda/An-Obstacle-Avoiding-Robot)** | Mar 2024 | Arduino-powered robot with obstacle detection using ultrasonic sensors. |
-| 💍 **[Matrimony-Biye-Shaadi](https://github.com/SuraiyaMahmuda/Matrimony-Biye-Shaadi)** | Jan 2024 | A full-stack matchmaking platform for matrimonial services. |
+| 🐶 **[Animal Face Classification](https://github.com/SuraiyaMahmuda/Animal-Face-Classification)** | Mar 2025 | This project uses Python with TensorFlow and Keras to build a CNN for classifying animal faces. Developed in Jupyter Notebook, it applies image preprocessing with OpenCV and NumPy, and uses Matplotlib and Scikit-learn for evaluation and visualization. |
+| 📚 **[TutorFinderApp](https://github.com/SuraiyaMahmuda/TutorFinderApp)** | Dec 2024 | An Android app built with Java that connects students and parents with tutors. It uses Firebase Authentication, MySQL backend with Slim framework API, Google Maps for location, and Firebase Cloud Messaging for notifications. |
+| 🏫 **[Ju-Exam-Office-Management-System](https://github.com/SuraiyaMahmuda/Ju-Exam-Office-Management-System)** | Nov 2024 | Ju-Exam-Office-Management-System is a Django-based web app for managing exam workflows, certificate applications, and approvals at Jahangirnagar University using Python, HTML/CSS, Bootstrap, and SQLite/PostgreSQL. |
+| 🤖 **[An-Obstacle-Avoiding-Robot](https://github.com/SuraiyaMahmuda/An-Obstacle-Avoiding-Robot)** | Mar 2024 | An Arduino-based robot that uses ultrasonic sensors and servo motors to detect and avoid obstacles, programmed with C/C++ in the Arduino IDE. |
+| 💍 **[Matrimony-Biye-Shaadi](https://github.com/SuraiyaMahmuda/Matrimony-Biye-Shaadi)** | Jan 2024 | Matrimony-Biye-Shaadi is a matchmaking web app built with HTML, CSS, JavaScript, PHP, and MySQL, allowing users to create profiles, browse matches, and connect based on preferences. |
 
 ---
 
