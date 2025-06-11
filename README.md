@@ -11,7 +11,8 @@ Welcome to my GitHub profile! I’m a **final-year student of Computer Science a
 - 🎓 Final-year undergraduate student, CSE, Jahangirnagar University.
 - 🔐 Career goal: Become a faculty member and researcher in Cybersecurity.
 - 💻 Proficient in **Python**, **Java**, **C++**, **Django**, and **Machine Learning Frameworks**.
-- 🌱 Currently exploring **BERT**, **LLM**, **Cyber Security**, and **Secure Web Systems**.
+- 🌱 Currently exploring **BERT**, **NLP**, **LLM**, and **Secure Web Systems**.
+- Research Interests: **Cyber Security**.
 
 ---
 
