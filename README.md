@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I’m a **final-year student of Computer Science a
 | Project Name | Date | Description |
 |--------------|------|-------------|
 | 🐦 **[Bird Classification](https://github.com/SuraiyaMahmuda/Bird-Classification)** | Mar 2025 | ML-based classifier that identifies bird species from images. |
-| 🐶 **[Animal Face Classification](https://github.com/SuraiyaMahmuda/Animal-Face-Classification)** | Mar 2025 | Image classification model for recognizing animal faces. |
+| 🐶 **[Animal Face Classification](https://github.com/SuraiyaMahmuda/Animal-Face-Classification)** | Mar 2025 | This project uses a CNN model to classify animal faces like cats, dogs, and pandas. It applies image preprocessing and augmentation to improve accuracy, showcasing deep learning for animal recognition tasks. |
 | 📚 **[TutorFinderApp](https://github.com/SuraiyaMahmuda/TutorFinderApp)** | Dec 2024 | Android app that connects parents with tutors for home teaching. |
 | 🏫 **[Ju-Exam-Office-Management-System](https://github.com/SuraiyaMahmuda/Ju-Exam-Office-Management-System)** | Nov 2024 | A Django-based system for managing university exam office workflows. |
 | 🤖 **[An-Obstacle-Avoiding-Robot](https://github.com/SuraiyaMahmuda/An-Obstacle-Avoiding-Robot)** | Mar 2024 | Arduino-powered robot with obstacle detection using ultrasonic sensors. |
