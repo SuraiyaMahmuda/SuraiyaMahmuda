@@ -1,18 +1,20 @@
 # 👩‍🏫 Hello, I'm Suraiya Mahmuda
 
-Welcome to my GitHub profile! I’m a **passionate faculty member** with a strong interest in **Cybersecurity**, **Software Engineering**, and **Applied Machine Learning**. I am deeply committed to fostering technical education and contributing impactful research and practical innovations in the tech field.
+---
+
+I’m a **final-year student of Computer Science and Engineering at Jahangirnagar University (JU)** with a CGPA of **3.78 out of 4.00**. I aspire to become a **dedicated faculty member** in the future, with strong interests in **Cybersecurity**, **Software Engineering**, and **Applied Machine Learning**. I am deeply committed to academic excellence, technical learning, and contributing impactful research and innovations in the field of computing.
 
 ---
 
 ## 💼 About Me
 
-- 🎓 Faculty member in Computer Science & Engineering.
-- 🔐 Research focus: **Cybersecurity**, **Fake News Detection**, and **System Security**.
+- 🎓 Final-year undergraduate student, CSE, Jahangirnagar University.
+- 🔐 Career goal: Become a faculty member and researcher in Cybersecurity.
 - 💻 Proficient in **Python**, **Java**, **C++**, **Django**, and **Machine Learning Frameworks**.
-- 📚 Dedicated to bridging academic knowledge with real-world applications.
-- 🌱 Currently exploring **BERT for NLP**, **BanglaBERT**, **IoT Security**, and **Secure Software Development**.
+- 🌱 Currently exploring **BERT**, **LLM**, **Cyber Security**, and **Secure Web Systems**.
 
 ---
+
 
 ## 🚀 Major Projects
 
