@@ -27,16 +27,17 @@ Welcome to my GitHub profile! I’m a **final-year student of Computer Science a
 
 ---
 
-## 🧰 Tech Stack
-
-Languages     : Python, Java, C++, HTML/CSS, JavaScript, SQL
-Frameworks    : Django, Android (Java), Flask
-Tools         : Git, GitHub, CI/CD, Firebase, Arduino IDE, Jupyter Notebook
-ML/NLP Tools  : Scikit-learn, TensorFlow, Keras, BanglaBERT
-
----
-
 ## 🛠️ Programming Languages & Tools Usage
 
 ![Programming Languages Usage](languages_pie_chart.png)
 
+---
+
+## 🧰 Tech Stack
+
+Languages     : Python, Java, C++, HTML/CSS, JavaScript, SQL  
+Frameworks    : Django, Android (Java), Flask  
+Tools         : Git, GitHub, CI/CD, Firebase, Arduino IDE, Jupyter Notebook  
+ML/NLP Tools  : Scikit-learn, TensorFlow, Keras, BanglaBERT  
+
+---
