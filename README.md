@@ -29,7 +29,6 @@ Welcome to my GitHub profile! I’m a **final-year student of Computer Science a
 
 ## 🧰 Tech Stack
 
-```text
 Languages     : Python, Java, C++, HTML/CSS, JavaScript, SQL
 Frameworks    : Django, Android (Java), Flask
 Tools         : Git, GitHub, CI/CD, Firebase, Arduino IDE, Jupyter Notebook
