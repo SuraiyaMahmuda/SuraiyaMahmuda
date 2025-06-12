@@ -25,7 +25,6 @@ Welcome to my GitHub profile! I’m a **final-year student of Computer Science a
 | 🤖 **[An-Obstacle-Avoiding-Robot](https://github.com/SuraiyaMahmuda/An-Obstacle-Avoiding-Robot)**   |     Mar 2024     | An Arduino-based robot that uses ultrasonic sensors and servo motors to detect and avoid obstacles, programmed with C/C++ in the Arduino IDE. |
 | 💍 **[Matrimony-Biye-Shaadi](https://github.com/SuraiyaMahmuda/Matrimony-Biye-Shaadi)**   |     Jan 2024     | Matrimony-Biye-Shaadi is a matchmaking web app built with HTML, CSS, JavaScript, PHP, and MySQL, allowing users to create profiles, browse matches, and connect based on preferences. |
 
-
 ---
 
 ## 🧰 Tech Stack
@@ -35,3 +34,10 @@ Languages     : Python, Java, C++, HTML/CSS, JavaScript, SQL
 Frameworks    : Django, Android (Java), Flask
 Tools         : Git, GitHub, CI/CD, Firebase, Arduino IDE, Jupyter Notebook
 ML/NLP Tools  : Scikit-learn, TensorFlow, Keras, BanglaBERT
+
+---
+
+## 🛠️ Programming Languages & Tools Usage
+
+![Programming Languages Usage](languages_pie_chart.png)
+
