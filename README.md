@@ -14,7 +14,6 @@ Welcome to my GitHub profile! I’m a **final-year student of Computer Science a
 
 ---
 
-
 ## 🚀 Major Projects
 
 | Project Name   |     Date     | Description |
@@ -25,6 +24,7 @@ Welcome to my GitHub profile! I’m a **final-year student of Computer Science a
 | 🏫 **[Ju-Exam-Office-Management-System](https://github.com/SuraiyaMahmuda/Ju-Exam-Office-Management-System)**   |     Nov 2024     | Ju-Exam-Office-Management-System is a Django-based web app for managing exam workflows, certificate applications, and approvals at Jahangirnagar University using Python, HTML/CSS, Bootstrap, and SQLite/PostgreSQL. |
 | 🤖 **[An-Obstacle-Avoiding-Robot](https://github.com/SuraiyaMahmuda/An-Obstacle-Avoiding-Robot)**   |     Mar 2024     | An Arduino-based robot that uses ultrasonic sensors and servo motors to detect and avoid obstacles, programmed with C/C++ in the Arduino IDE. |
 | 💍 **[Matrimony-Biye-Shaadi](https://github.com/SuraiyaMahmuda/Matrimony-Biye-Shaadi)**   |     Jan 2024     | Matrimony-Biye-Shaadi is a matchmaking web app built with HTML, CSS, JavaScript, PHP, and MySQL, allowing users to create profiles, browse matches, and connect based on preferences. |
+
 
 ---
 
