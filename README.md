@@ -41,3 +41,43 @@ Welcome to my GitHub profile! I’m a **final-year student of Computer Science a
 **ML/NLP Tools**  : Scikit-learn, TensorFlow, Keras, BanglaBERT  
 
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 📊 GitHub Stats
+
+### [Suraiya Mahmuda's GitHub Stats](https://github.com/SuraiyaMahmuda)
+
+- ⭐ **Total Stars Earned:** 0  
+- 📈 **Total Commits (2025):** 345  
+- 📈 **Total Commits (2024):** 280  
+- 📈 **Total Commits (2023):** 198  
+- 📈 **Total Commits (2022):** 123  
+- 🔀 **Total PRs:** 0  
+- ❗ **Total Issues:** 0  
+- ⌛ **Contributed to (last year):** 2  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=SuraiyaMahmuda&theme=default&hide_border=true)
+
+---
+
+## 📬 How to reach me
+ 
+- 🌐 Portfolio: [Suraiya Mahmuda](https://surya-mu.me)  
+- 💼 LinkedIn: [in/Suraiya Mahmuda]([https://www.linkedin.com/in/suraiya-mahmuda-861779326])
+- 📧 Email: [suraiya2001mahmuda@gmail.com](mailto:suraiya2001mahmuda@gmail.com)
+- 📍 Location: Dhaka, Bangladesh
+
+---
