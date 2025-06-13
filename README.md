@@ -73,7 +73,7 @@ Welcome to my GitHub profile! I’m a **final-year student of Computer Science a
 
 ## 📬 How to reach me
  
-- 🌐 Portfolio: [Suraiya Mahmuda](https://surya-mu.me)  
+- 🌐 Portfolio: [Suraiya Mahmuda](https://)  
 - 💼 LinkedIn: [Suraiya Mahmuda](https://www.linkedin.com/in/suraiya-mahmuda-861779326)  
 - 📧 Email: [suraiya2001mahmuda@gmail.com](mailto:suraiya2001mahmuda@gmail.com) 
 - 📍 Location: Dhaka, Bangladesh
