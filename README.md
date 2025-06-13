@@ -69,15 +69,13 @@ Welcome to my GitHub profile! I’m a **final-year student of Computer Science a
 - ❗ **Total Issues:** 0  
 - ⌛ **Contributed to (last year):** 2  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SuraiyaMahmuda&theme=default&hide_border=true)
-
 ---
 
 ## 📬 How to reach me
  
 - 🌐 Portfolio: [Suraiya Mahmuda](https://surya-mu.me)  
-- 💼 LinkedIn: [in/Suraiya Mahmuda]([https://www.linkedin.com/in/suraiya-mahmuda-861779326])
-- 📧 Email: [suraiya2001mahmuda@gmail.com](mailto:suraiya2001mahmuda@gmail.com)
+- 💼 LinkedIn: [Suraiya Mahmuda](https://www.linkedin.com/in/suraiya-mahmuda-861779326)  
+- 📧 Email: [suraiya2001mahmuda@gmail.com](mailto:suraiya2001mahmuda@gmail.com) 
 - 📍 Location: Dhaka, Bangladesh
 
 ---
