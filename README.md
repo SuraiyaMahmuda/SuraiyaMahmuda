@@ -1,6 +1,6 @@
 # 👩‍🏫 Hello, I'm Suraiya Mahmuda
 
-Welcome to my GitHub profile! I’m a **final-year student of Computer Science and Engineering at Jahangirnagar University (JU)** with a CGPA of **3.78 out of 4.00**. I aspire to become a **dedicated faculty member** in the future, with strong interests in **Cybersecurity**, **Software Engineering**, and **Applied Machine Learning**. I am deeply committed to academic excellence, technical learning, and contributing impactful research and innovations in the field of computing.
+Welcome to my GitHub profile! I’m a **final-year student of Computer Science and Engineering at Jahangirnagar University (JU)** with a CGPA of **3.78 out of 4.00**. I aspire to become a **dedicated faculty member** in the future, with strong interests in **Cybersecurity**,  and **Machine Learning**,  **Deep Learning**, and **NLP**. I am deeply committed to academic excellence, technical learning, and contributing impactful research and innovations in the field of computing.
 
 ---
 
@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I’m a **final-year student of Computer Science a
 - 🔐 Career goal: Become a faculty member and researcher in Cybersecurity.
 - 💻 Proficient in **Python**, **Java**, **C++**, **Django**, and **Machine Learning Frameworks**.
 - 🌱 Currently exploring **BERT**, **NLP**, **LLM**, and **Secure Web Systems**.
-- 👩‍🏫 Research Interests: **Cyber Security**.
+- 👩‍🏫 Research Interests: **Cyber Security**, **Machine Learning**, **Deep Learning**, **NLP**.
 
 ---
 
@@ -63,8 +63,6 @@ Welcome to my GitHub profile! I’m a **final-year student of Computer Science a
 - ⭐ **Total Stars Earned:** 0  
 - 📈 **Total Commits (2025):** 345  
 - 📈 **Total Commits (2024):** 280  
-- 📈 **Total Commits (2023):** 198  
-- 📈 **Total Commits (2022):** 123  
 - 🔀 **Total PRs:** 0  
 - ❗ **Total Issues:** 0  
 - ⌛ **Contributed to (last year):** 2  
@@ -73,8 +71,8 @@ Welcome to my GitHub profile! I’m a **final-year student of Computer Science a
 
 ## 📬 How to reach me
  
-- 🌐 Portfolio: [Suraiya Mahmuda](https://)  
-- 💼 LinkedIn: [Suraiya Mahmuda](https://www.linkedin.com/in/suraiya-mahmuda-861779326)  
+- 🌐 Portfolio: [Portfolio/Suraiya Mahmuda]([https://](https://suraiyamahmuda.github.io/))  
+- 💼 LinkedIn: [LinkedIn/Suraiya Mahmuda](https://www.linkedin.com/in/suraiya-mahmuda-861779326)  
 - 📧 Email: [suraiya2001mahmuda@gmail.com](mailto:suraiya2001mahmuda@gmail.com) 
 - 📍 Location: Dhaka, Bangladesh
 
