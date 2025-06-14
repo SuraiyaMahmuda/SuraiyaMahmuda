@@ -42,20 +42,6 @@ Welcome to my GitHub profile! I’m a **final-year student of Computer Science a
 
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 📊 GitHub Stats
 
 ### [Suraiya Mahmuda's GitHub Stats](https://github.com/SuraiyaMahmuda)
@@ -71,7 +57,7 @@ Welcome to my GitHub profile! I’m a **final-year student of Computer Science a
 
 ## 📬 How to reach me
  
-- 🌐 Portfolio: [Portfolio/Suraiya Mahmuda]([https://](https://suraiyamahmuda.github.io/))  
+- 🌐 Portfolio: [Portfolio/Suraiya Mahmuda](https://suraiyamahmuda.github.io/) 
 - 💼 LinkedIn: [LinkedIn/Suraiya Mahmuda](https://www.linkedin.com/in/suraiya-mahmuda-861779326)  
 - 📧 Email: [suraiya2001mahmuda@gmail.com](mailto:suraiya2001mahmuda@gmail.com) 
 - 📍 Location: Dhaka, Bangladesh
