@@ -18,6 +18,7 @@ Welcome to my GitHub profile! I’m a **final-year student of Computer Science a
 
 | Project Name   |     Date     | Description |
 |--------------|--------------|-------------|
+| 📚 **[Fake News Classification](https://github.com/SuraiyaMahmuda/Bird-Classification)**   |     May 2025     | Built with Python, TensorFlow, and Keras, this project uses a CNN to classify bird species from images. It includes image preprocessing with OpenCV and NumPy, plus visualization and evaluation using Matplotlib and Scikit-learn. |
 | 🐦 **[Bird Classification](https://github.com/SuraiyaMahmuda/Bird-Classification)**   |     Mar 2025     | Built with Python, TensorFlow, and Keras, this project uses a CNN to classify bird species from images. It includes image preprocessing with OpenCV and NumPy, plus visualization and evaluation using Matplotlib and Scikit-learn. |
 | 🐶 **[Animal Face Classification](https://github.com/SuraiyaMahmuda/Animal-Face-Classification)**   |     Mar 2025     | This project uses Python with TensorFlow and Keras to build a CNN for classifying animal faces. Developed in Jupyter Notebook, it applies image preprocessing with OpenCV and NumPy, and uses Matplotlib and Scikit-learn for evaluation and visualization. |
 | 📚 **[TutorFinderApp](https://github.com/SuraiyaMahmuda/TutorFinderApp)**   |     Dec 2024     | An Android app built with Java that connects students and parents with tutors. It uses Firebase Authentication, MySQL backend with Slim framework API, Google Maps for location, and Firebase Cloud Messaging for notifications. |
