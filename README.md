@@ -1,17 +1,5 @@
 # 👩‍🏫 Hello, I'm Suraiya Mahmuda
 
-
-
----
-
-## 💼 About Me
-
-- 🎓 Final-year undergraduate student, CSE, Jahangirnagar University.
-- 🔐 Career goal: Become a faculty member and researcher in Cybersecurity.
-- 💻 Proficient in **Python**, **Java**, **C++**, **Django**, and **Machine Learning Frameworks**.
-- 🌱 Currently exploring **BERT**, **NLP**, **LLM**, and **Secure Web Systems**.
-- 👩‍🏫 Research Interests: **Cyber Security**, **Machine Learning**, **Deep Learning**, **NLP**.
-
 ---
 
 ## 🚀 Major Projects
@@ -40,19 +28,6 @@
 **Frameworks**    : Django, Android (Java), Flask  
 **Tools**         : Git, GitHub, CI/CD, Firebase, Arduino IDE, Jupyter Notebook  
 **ML/NLP Tools**  : Scikit-learn, TensorFlow, Keras, BanglaBERT  
-
----
-
-## 📊 GitHub Stats
-
-### [Suraiya Mahmuda's GitHub Stats](https://github.com/SuraiyaMahmuda)
-
-- ⭐ **Total Stars Earned:** 0  
-- 📈 **Total Commits (2025):** 345  
-- 📈 **Total Commits (2024):** 280  
-- 🔀 **Total PRs:** 0  
-- ❗ **Total Issues:** 0  
-- ⌛ **Contributed to (last year):** 2  
 
 ---
 
