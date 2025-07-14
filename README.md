@@ -1,6 +1,6 @@
 # 👩‍🏫 Hello, I'm Suraiya Mahmuda
 
-Welcome to my GitHub profile! I’m a **final-year student of Computer Science and Engineering at Jahangirnagar University (JU)** with a CGPA of **3.78 out of 4.00**. I aspire to become a **dedicated faculty member** in the future, with strong interests in **Cybersecurity**,  and **Machine Learning**,  **Deep Learning**, and **NLP**. I am deeply committed to academic excellence, technical learning, and contributing impactful research and innovations in the field of computing.
+
 
 ---
 
